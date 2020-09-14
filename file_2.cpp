@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main(){
-    count<<"file_1(1)"<<end;
+    count<<"file_2(1)"<<end;
 }
